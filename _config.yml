@@ -1,7 +1,7 @@
 name: MyWeave
 favicon: null
-layout_spectrum: 0.6047294193413109
-typography_spectrum: 0.28782101906836033
+layout_spectrum: 0.47936
+typography_spectrum: 0.74951
 title: 'Wigs and hairpieces for any style or budget!'
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.4037449765019119
-  lightness: 0.37255046027712524
-  saturation: 0.0674085607752204
-  rhythmicContrast: 0.28972159582190216
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
