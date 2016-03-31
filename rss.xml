@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Wigs and hairpieces for any style or budget!]]></title>
         <description><![CDATA[Wigs and hairpieces for any style or budget!]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/myweave/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 21:35:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 31 Mar 2016 21:37:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/myweave/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4413c2c4-7501-4e69-a3ed-8c244526cb06.jpg">]]></description>
+            <link>https://thegrid.ai/myweave/ab199667-6cbd-4a98-a7bb-3e9851114517/index.html</link>
+            <guid isPermaLink="false">ab199667-6cbd-4a98-a7bb-3e9851114517</guid>
+            <pubDate>Thu, 31 Mar 2016 21:37:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[100% Human Hair Wigs ($65)]]></title>
             <description><![CDATA[<article><h1>100% Human Hair Wigs ($65)</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41eb3795f391e0773e16cadc0ba5e646916e5103.jpg"></article>]]></description>
-            <link>undefined100-human-hair-wigs-dollar65/index.html</link>
+            <link>https://thegrid.ai/myweave/100-human-hair-wigs-dollar65/index.html</link>
             <guid isPermaLink="false">3bdf2dee-068d-4b28-a572-b64477b510dc</guid>
             <pubDate>Thu, 31 Mar 2016 21:35:37 GMT</pubDate>
         </item>
