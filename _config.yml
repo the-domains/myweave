@@ -22,8 +22,8 @@ color:
     - '#641a4f'
     - '#a9ca21'
     - '#000000'
-  brandStrength: 1
-  lightness: 0
+  brandStrength: 0
+  lightness: 1
   saturation: 0
   rhythmicContrast: 0
 purpose: []
